@@ -1,2 +1,2 @@
-capitals=["Moscow", "Minsk", "Astana"] #list
+capitals=["Moscow", "Minsk", "Pavlodar"] #list
 print(capitals[1])
